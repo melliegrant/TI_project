@@ -1,0 +1,1 @@
+// TODO: carousel for skills section on screens with max-width: 1149px
